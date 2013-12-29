@@ -12,6 +12,9 @@ build/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata
+!*.xcodeproj/xcuserdata
+*.xcodeproj/xcuserdata/*.xcuserdatad
+!*.xcodeproj/xcuserdata/jenkins.xcuserdatad
 *.xccheckout
 profile
 *.moved-aside
